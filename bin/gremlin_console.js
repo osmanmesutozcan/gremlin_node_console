@@ -1,4 +1,5 @@
-#!/usr/bin/env node
+#!/bin/sh
+":" //# comment; exec /usr/bin/env node --experimental-repl-await
 
 "use strict";
 
