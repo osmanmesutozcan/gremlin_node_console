@@ -1,5 +1,5 @@
 #!/bin/sh
-":" //# comment; exec /usr/bin/env node --experimental-repl-await
+":" //# comment; exec /usr/bin/env node --experimental-repl-await  "$0" "$@"
 
 "use strict";
 

@@ -1,6 +1,6 @@
 {
   "name": "gremlin_node_console",
-  "version": "0.0.2",
+  "version": "0.0.6",
   "main": "index.js",
   "license": "MIT",
   "author": "Osman Mesut Ozcan <osmanmesutozcan@gmail.com>",
