@@ -1,5 +1,5 @@
 {
-  "name": "gremlin_console",
+  "name": "gremlin_node_console",
   "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
