@@ -1,0 +1,15 @@
+{
+  "name": "gremlin_console",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Osman Mesut Ozcan <osmanmesutozcan@gmail.com>",
+  "bin": {
+    "gremlin_console": "./bin/gremlin_console.js"
+  },
+  "dependencies": {
+    "colors": "^1.3.3",
+    "commander": "^2.19.0",
+    "gremlin": "^3.4.1"
+  }
+}
